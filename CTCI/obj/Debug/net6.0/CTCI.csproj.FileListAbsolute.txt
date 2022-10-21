@@ -1,0 +1,15 @@
+/Users/spanda49/Projects/CTCI/CTCI/bin/Debug/net6.0/CTCI
+/Users/spanda49/Projects/CTCI/CTCI/bin/Debug/net6.0/CTCI.deps.json
+/Users/spanda49/Projects/CTCI/CTCI/bin/Debug/net6.0/CTCI.runtimeconfig.json
+/Users/spanda49/Projects/CTCI/CTCI/bin/Debug/net6.0/CTCI.dll
+/Users/spanda49/Projects/CTCI/CTCI/bin/Debug/net6.0/CTCI.pdb
+/Users/spanda49/Projects/CTCI/CTCI/obj/Debug/net6.0/CTCI.csproj.AssemblyReference.cache
+/Users/spanda49/Projects/CTCI/CTCI/obj/Debug/net6.0/CTCI.GeneratedMSBuildEditorConfig.editorconfig
+/Users/spanda49/Projects/CTCI/CTCI/obj/Debug/net6.0/CTCI.AssemblyInfoInputs.cache
+/Users/spanda49/Projects/CTCI/CTCI/obj/Debug/net6.0/CTCI.AssemblyInfo.cs
+/Users/spanda49/Projects/CTCI/CTCI/obj/Debug/net6.0/CTCI.csproj.CoreCompileInputs.cache
+/Users/spanda49/Projects/CTCI/CTCI/obj/Debug/net6.0/CTCI.dll
+/Users/spanda49/Projects/CTCI/CTCI/obj/Debug/net6.0/refint/CTCI.dll
+/Users/spanda49/Projects/CTCI/CTCI/obj/Debug/net6.0/CTCI.pdb
+/Users/spanda49/Projects/CTCI/CTCI/obj/Debug/net6.0/CTCI.genruntimeconfig.cache
+/Users/spanda49/Projects/CTCI/CTCI/obj/Debug/net6.0/ref/CTCI.dll
